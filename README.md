@@ -1,1 +1,1 @@
-패스트캠퍼스 next.js와 typescript 강의입니다.
+옛날 next.js 튜토리얼(블로그 만들기) with typescript 
